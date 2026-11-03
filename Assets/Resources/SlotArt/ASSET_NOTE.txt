@@ -1,0 +1,1 @@
+Original artwork copied from the assignment-provided Slot Machine.zip. The GIF is retained as a visual reference; runtime gameplay uses the PNG symbol sprites.

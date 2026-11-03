@@ -12,3 +12,6 @@
 *.pidb
 *.booproj
 .DS_Store
+!Build/
+!Build/WebGL/
+!Build/WebGL/**
